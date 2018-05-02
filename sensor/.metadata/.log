@@ -1,0 +1,13 @@
+!SESSION 2018-04-25 09:33:31.320 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\ti\simplelink_cc13x0_sdk_2_10_00_36\examples\rtos\CC1310_LAUNCHXL\ti154stack\sensor -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:33:32.788
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:33:32.796
+!MESSAGE debugServerDir=C:/ti/ccsv8/ccs_base/DebugServer
